@@ -56,6 +56,9 @@ NumPy, pandas, scikit-learn, NeuroKit2 and FOOOF. See References for recommended
 - Andersson, J. L. R., Graham, M. S., Drobnjak, I., Zhang, H., Filippini, N. & Bastiani, M. Comprehensive framework for movement and distortion correction of diffusion MR images: Within-volume movement. Neuroimage 152, 450–466 (2017).
 - Andersson, J. L. R., Graham, M. S., Drobnjak, I., Zhang, H. & Campbell, J. Susceptibility-induced distortion varying due to motion: Correction in diffusion MR without additional data. Neuroimage 171, 277–295 (2018).
 
+## Atlas
+- Tzourio-Mazoyer, N., Landeau, B., Papathanassiou, D. et al. Automated anatomical labeling of activations in SPM using a macroscopic anatomical parcellation of the MNI MRI single-subject brain. Neuroimage 15, 273–289 (2002). doi:10.1006/nimg.2001.0978
+
 ## Python libraries
 
 - Harris, C. R., Millman, K. J., van der Walt, S. J. et al. Array programming with NumPy. Nature 585, 357–362 (2020). 
