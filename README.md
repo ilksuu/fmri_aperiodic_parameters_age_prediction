@@ -15,6 +15,8 @@ The analysis notebook contains hard-coded file paths. Before running the analysi
 
 ### Installing and running the script
 
+Recommendation: Create a dedicated virtual environment before running this notebook. This ensures that the required dependencies and specific package versions are installed without conflicting with other projects.
+
 ```
 conda create -n my_env python=3.8.20
 conda activate my_env
