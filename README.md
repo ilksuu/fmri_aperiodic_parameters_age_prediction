@@ -4,13 +4,14 @@ Machine learning regression analysis predicting neonatal postmenstrual and postn
 
 ## Description
 
-This code is developed for the data analysis of the Developing human connectome project dataset (dHCP, third data release) [https://doi.org/10.3389/fnins.2022.886772]. Information about the dataset, including access and terms of use can be found via the following link: https://biomedia.github.io/dHCP-release-notes/
+This repository provides code for data analysis of the Developing Human Connectome Project (dHCP) dataset, third data release (Edwards et al., 2022).
+Detailed information about the dataset, including access instructions and terms of use, is available at: https://biomedia.github.io/dHCP-release-notes/
 
 ## Getting Started
 
-Note: This repository does not include the dataset. To obtain it, follow the instructions provided at dHCP Release Notes (https://biomedia.github.io/dHCP-release-notes).
+Note: This repository does not include the dataset. To obtain the data, please follow the instructions provided in the dHCP Release Notes.
 
-The notebook contains hard-coded file paths. Please update these paths to point to the location of the dataset on your local machine before running the analysis.
+The analysis notebook contains hard-coded file paths. Before running the analysis, update these paths to point to the location of the dataset on your local machine.
 
 ### Installing and running the script
 
@@ -42,7 +43,7 @@ NumPy, pandas, scikit-learn, NeuroKit2 and FOOOF. See References for recommended
 
 # References
 
-## dCHP dataset
+## dHCP dataset
 
 - Edwards, A. D., Rueckert, D., Smith, S. M. et al. The Developing Human Connectome Project Neonatal Data Release. Front. Neurosci. 16, 886772 (2022).
 - Hughes, E. J., Winchman, T., Padormo, F. et al. A dedicated neonatal brain imaging system. Magn. Reson. Med. 78, 794–804 (2017).
