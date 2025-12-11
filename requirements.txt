@@ -7,5 +7,5 @@ pandas==2.0.3
 scikit-learn==1.2.2
 mne==1.6.1
 neurokit2==0.2.7
-FOOOF=1.1.0
+FOOOF==1.1.0
 
